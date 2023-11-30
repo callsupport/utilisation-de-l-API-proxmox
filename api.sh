@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Variables
-PROXMOX_IP="176.9.10.239"
-PROXMOX_USER="nassima-ayadi"
-PROXMOX_PASSWORD="Pleading-Gallon6-Hatred-Stagnant-Imperfect-Surger"
-NODE_NAME="wcs-cyber-node01"
+PROXMOX_IP="<IP du serveur Proxmox>"
+PROXMOX_USER="<Utilisateur Proxmox>"
+PROXMOX_PASSWORD="<Mot de passe Proxmox>"
+NODE_NAME="<nom du noeud>"
 
 # Droit d'exécution
 chmod +x api.sh
